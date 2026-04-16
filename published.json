@@ -1,0 +1,4 @@
+{
+  "upstream": "grafana/k6-action",
+  "version": "v0.3.1"
+}
