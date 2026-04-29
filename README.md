@@ -1,6 +1,12 @@
 # grafana/k6-action
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/grafana/k6-action](https://github.com/grafana/k6-action).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v0.3.1 | [`v0.3.1`](https://github.com/chainguard-actions/k6-action/tree/v0.3.1) | — |
 
 ## Privacy
 
