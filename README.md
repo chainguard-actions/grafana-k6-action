@@ -1,5 +1,7 @@
 # grafana/k6-action
 
+[Archived] Legacy k6 GitHub Action
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/grafana/k6-action](https://github.com/grafana/k6-action).
 
 ## Versions
