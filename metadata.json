@@ -1,7 +1,0 @@
-{
-  "owner": "grafana",
-  "name": "k6-action",
-  "visibility": "internal",
-  "description": "[Archived] Legacy k6 GitHub Action",
-  "block_publish": false
-}
